@@ -14,3 +14,5 @@ GraphQL is a layer on top of a relational database such as MySQL
 
 Investigate "Stateless Functional Components"
 
+[Functional Stateless Components](https://javascriptplayground.com/functional-stateless-components-react/)
+
